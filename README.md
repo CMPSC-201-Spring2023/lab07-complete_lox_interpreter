@@ -45,7 +45,7 @@ Add one enhancement (make changes or additions to the code) to make the interpre
 
 ### Documentation
 
-For this part of the assignment, you are to finish the section in the README so that, at the minimu, it has information about (see Section 13.4):
+For this part of the assignment, you are to finish the section in the README so that, at the minimum, it has information about (see Section 13.4):
 
 - Scanning
 - Parsing
@@ -65,11 +65,9 @@ The organization of the README is up to you and addition of new visualization is
 
 ### Walkthrough and Demo
 
-During our next lab on April 4th, each team will demonstrate their work-in-progress interpreter by participating in a code walkthrough. Code walkthrough is an informal analysis process with a goal of identifying defects within the code. In this case, code walkthrough will also be used to assess the understanding of the code by the team members and to ensure team is making sufficient progress. You are expected to complete Chapters 8-10 by next lab, at the minimum. 
+During our next lab on April 4th, each team will demonstrate their work-in-progress interpreter by participating in a code walkthrough. Code walkthrough is an informal analysis process with a goal of identifying defects within the code. In this case, code walkthrough will also be used to assess the understanding of the code by the team members and to ensure team is making sufficient progress. At the minimum, you are expected to complete Chapters 8-10 by next lab. Similar to previous sessions, teams can assign specific members to lead the review of the certain portion of the code, however questions can be directed to anyone on the team. During walkthrough teams can also check if their enhancement is sufficient for that requirement of the lab.
 
-Similar to previous sessions, teams can assign specific members to lead the review of the certain portion of the code, however questions can be directed to anyone on the team. 
-
-Then, during the lab session on April 11th, teams will be invited to demonstrate the completed version of their interpreter and to present their enhacenment contribution. 
+Then, during the lab session on April 11th, teams will be invited to demonstrate the completed version of their interpreter and to present their enhancement contribution. During this final demonstration team members do not need to walk through code, instead they should focus on describing their interpreter's functionality in general, demonstrate its inner workings, features, and functionalities through several `lox` programs, and highlight the enhancement that was added by the team.
 
 ## Assignment Assessment
 
